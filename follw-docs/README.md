@@ -1,0 +1,1 @@
+follw the docs https://webpack.js.org/concepts/
